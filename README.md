@@ -6,7 +6,7 @@ Developed by Tomás Pimentel Fontes and professor Filipe Cunha from Instituto Su
 
 Language: Matlab - App Designer.
 
-Work developed to obtain the Masters' Thesis in Aerospace Engineering.
+Work developed on a thesis to obtain a Masters' degree in Aerospace Engineering.
 
 Software tool for the preliminary design of rotorcrafts.
 
